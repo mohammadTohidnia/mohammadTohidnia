@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on **IoT and smart home projects** using the ZigBee protocol.  
+- 🌱 I’m currently learning **Embedded Linux, FreeRTOS, and Embedde AI**.  
+- 👯 I’m looking to collaborate on **embedded systems and IoT projects**.  
+- 💬 Ask me about **ESP32, STM32, VHDL, PCB design, and IoT protocols (Zigbee, Wi-Fi, Modbus)**.  
+- 📫 How to reach me: [Telegram](https://t.me/Mohammad_Tohidnia) | [LinkedIn](https://www.linkedin.com/in/mohammad-tohidnia-ee/)  
+- 😄 Pronouns: He/Him 
 <!--
 **mohammadTohidnia/mohammadTohidnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
