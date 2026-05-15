@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **STM32 peripheral drivers and IoT projects** using the ZigBee protocol.  
-- 🌱 I’m currently learning **EDA tools such as Synopsys, Synthesis Algorithms, and VHDL digital design **.  
+- 🔭 I’m currently working on **STM32 peripheral drivers and IoT projects** .  
+- 🌱 I’m currently learning **EDA tools such as Synopsys, Synthesis Algorithms, and VHDL digital design**.  
 - 👯 I’m looking to collaborate on **Embedded AI and Embedded Linux**.   
 - 📫 How to reach me: [Telegram](https://t.me/Mohammad_Tohidnia) | [LinkedIn](https://www.linkedin.com/in/mohammad-tohidnia-ee/)  
 - 😄 Pronouns: He/Him 
